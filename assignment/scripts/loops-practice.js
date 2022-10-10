@@ -35,7 +35,7 @@ for (let i=0; i<6; i++){
 console.log('count even numbers from 2 to 10 (2, 4, 6, 8, 10):');
 
 //Need to change the for statement to the below:
-for (let i=0; i<=10; i++){
+for (let i=1; i<=10; i++){
   if(i % 2 == 0){
     console.log(i);
   }
@@ -62,9 +62,8 @@ console.log('Some stars using while:');
 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
-while( i<6){
+while( let i=0; i<6; i++){
   console.log('in while loop. index:', i);
-  i++;
 }
 
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
