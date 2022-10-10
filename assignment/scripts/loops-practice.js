@@ -25,7 +25,9 @@ console.log('count from 3 to 5');
 
 //Need to change the for statement to the below:
 for (let i=0; i<6; i++){
-  console.log(i>2);
+  if(i>2){
+    console.log(i);
+  }
 }
 
 // 1.c. TODO: Write a for loop to console.log EVEN numbers from 2 to 10
