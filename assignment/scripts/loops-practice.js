@@ -62,7 +62,7 @@ console.log('Some stars using while:');
 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
-while( let i=0; i<6; i++){
+while( i=0; i<6; i++){
   console.log('in while loop. index:', i);
 }
 
