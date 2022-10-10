@@ -80,7 +80,7 @@ while(i <= max){
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 console.log('count backwards from 10 to 5');
 
-let newi=5
+let newi=10
 while(newi <=10, newi>=5){
   console.log(newi);
   newi--;
