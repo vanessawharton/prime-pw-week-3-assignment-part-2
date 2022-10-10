@@ -48,7 +48,6 @@ for( let i=5; i>=0; i--){
   console.log(i);
 }
 
-
 // 2. For of loops  
 console.log('---- 2. For Of loop ----');
 let stars = ['Polaris', 'Gacrux', 'Formalhaut', 'Rigel', 'Deneb']
